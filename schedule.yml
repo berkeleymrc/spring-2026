@@ -217,16 +217,20 @@
           name: "Toxicology – Poisoning, Overdose, Drugs (Mon)"
           auxil:
             id: "Slides"
+            href: "files/toxicology_mon.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/toxicology_mon_scenario.pdf"
     - date: "Nov 11"
       items:
         - type: "Lecture B"
           name: "Toxicology – Poisoning, Overdose, Drugs (Tues)"
           auxil:
             id: "Slides"
+            href: "files/toxicology_tues.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/toxicology_tues_scenario.pdf"
     - date: "Nov 14"
       items:
         - type: "Reflection"
@@ -244,16 +248,20 @@
           name: "Pediatrics and Obstetrics (Mon)"
           auxil:
             id: "Slides"
+            href: "files/pediatrics_mon.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/pediatrics_mon_scenario.pdf"
     - date: "Nov 18"
       items:
         - type: "Lecture B"
           name: "Pediatrics and Obstetrics (Tues)"
           auxil:
             id: "Slides"
+            href: "files/pediatrics_tues.pdf"
           auxil2:
             id: "Scenarios"
+            href: "files/pediatrics_tues_scenario.pdf"
     - date: "Nov 21"
       items:
         - type: "Reflection"
@@ -281,7 +289,11 @@
       items:
         - type: "Reflection"
           name: "Week 12 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945840"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945840"
+    - date: "Dec 6"
+      items: 
+      - type: "Exercise"
+        name: "Mass Casualty Incident Training"
 
 - week: 13
   days:
@@ -289,8 +301,4 @@
       items:
         - type: "Assignment"
           name: "Final Feedback Form"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945829"
-    - date: "TBD"
-      items: 
-      - type: "Exercise"
-        name: "Mass Casualty Incident Training"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945829"
