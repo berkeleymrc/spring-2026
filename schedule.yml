@@ -279,12 +279,20 @@
           name: "Disaster and MCI Preparedness (Mon)"
           auxil:
             id: "Slides"
+            href: "files/mci.pdf"
+          auxil2:
+            id: "Triage Guide"
+            href: "files/triage.pdf"
     - date: "Dec 2"
       items:
         - type: "Lecture B"
           name: "Disaster and MCI Preparedness (Tues)"
           auxil:
             id: "Slides"
+            href: "files/mci.pdf"
+          auxil2:
+            id: "Triage Guide"
+            href: "files/triage.pdf"
     - date: "Dec 5"
       items:
         - type: "Reflection"
