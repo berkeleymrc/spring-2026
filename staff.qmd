@@ -18,7 +18,23 @@ Office hours are available at request.
 
 ::: {.g-col-6}
 <img src="assets/evan.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Director of Training:** <a href='https://github.com/cutedoggosweat/Dispatch?tab=readme-ov-file' target='_blank'>Evan Passalacqua</a><br>
+**Director of Training:** <a href='' target='_blank'>Evan Passalacqua</a><br>
+`training@berkeleymrc.org`<br>
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-6}
+<img src="assets/eva.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
+**Director of Training:** <a href='' target='_blank'>Eva Reineck</a><br>
+`training@berkeleymrc.org`<br>
+:::
+
+::: {.g-col-6}
+<img src="assets/fontanna.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
+**Director of Training:** <a href='' target='_blank'>Fontanna Zhi</a><br>
 `training@berkeleymrc.org`<br>
 :::
 

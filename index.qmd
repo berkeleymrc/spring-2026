@@ -1,6 +1,6 @@
 ---
 title: "Emergency Medicine In Practice"
-subtitle: "UC Berkeley, INTEGBI 198, Fall 2025"
+subtitle: "UC Berkeley, INTEGBI 198, Spring 2026"
 listing:
   - id: schedule
     template: schedule.ejs
@@ -16,7 +16,6 @@ listing:
 
 
 ::: {.callout-note title="Announcements"}
-- Sign up for the dispatch workshop ([https://forms.gle/rqpDWQLEWAKkGieP9](https://forms.gle/rqpDWQLEWAKkGieP9))!
 :::
 
 
