@@ -24,7 +24,7 @@ Office hours are available at request.
 
 :::
 
-::: {.grid}
+::: {.grid style="margin-top:1.5rem;"}
 
 ::: {.g-col-6}
 <img src="assets/eva.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />

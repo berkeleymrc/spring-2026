@@ -1,83 +1,86 @@
 - week: 1
   days:
-    - date: "Sep 13"
+    - date: "Feb 7"
       items:
         - type: "Exercise"
           name: "New Member Academy"
           auxil:
             id: "Slides"
-            href: "files/fa25-nma-slides.pdf"
+            # href: "files/fa25-nma-slides.pdf"
           # auxil2: 
           #   id: "Scenarios"
 
 - week: 2
   days:
-    - date: "Sep 15"
+    - date: "Feb 9"
       items:
         - type: "Lecture A"
           name: "Cardiac Emergencies (Mon)"
           auxil:
             id: "Slides"
-            href: "files/cardiac_mon.pdf"
+            # href: "files/cardiac_mon.pdf"
           auxil2: 
             id: "Scenarios"
-            href: "files/cardiac_mon_scenario.pdf"
-    - date: "Sep 16"
+            # href: "files/cardiac_mon_scenario.pdf"
+    - date: "Feb 10"
       items:
         - type: "Lecture B"
           name: "Cardiac Emergencies (Tues)"
           auxil:
             id: "Slides"
-            href: "files/cardiac_tues.pdf"
+            # href: "files/cardiac_tues.pdf"
           auxil2: 
             id: "Scenarios"
-            href: "files/cardiac_tues_scenario.pdf"
-    - date: "Sep 19"
+            # href: "files/cardiac_tues_scenario.pdf"
+    - date: "Feb 19"
       items:
         - type: "Quiz"
           name: "Week 2 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512085"
-    - date: "Sep 19"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512085"
+    - date: "Feb 19"
       items:
         - type: "Reflection"
           name: "Week 2 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945841"
-    - date: "Sep 19"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945841"
+    - date: "Feb 19"
       items:
         - type: "Quiz"
           name: "BMRC Protocol Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512080"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512080"
 
 - week: 3
   days:
-    - date: "Sep 22"
+    - date: "Feb 16"
       items:
-        - type: "Lecture A"
-          name: "CPR and STB/FA Instructor Training"
+        - type: "Lecture A & B"
+          name: "STB/FA Instructor Training"
+          auxil:
+            id: "Slides"
+            # href: "files/cardiac_mon.pdf"
 
 - week: 4
   days:
-    - date: "Sep 29"
+    - date: "Feb 23"
       items:
         - type: "Lecture A"
           name: "Respiratory Emergencies (Mon)"
           auxil:
             id: "Slides"
-            href: "files/respiratory_mon_slides.pdf"
+            # href: "files/respiratory_mon_slides.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/respiratory_mon_scenario.pdf"
-    - date: "Oct 1"
+            # href: "files/respiratory_mon_scenario.pdf"
+    - date: "Feb 24"
       items:
         - type: "Lecture B"
           name: "Respiratory Emergencies (Tues)"
           auxil:
             id: "Slides"
-            href: "files/respiratory_tues_slides.pdf"
+            # href: "files/respiratory_tues_slides.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/respiratory_tues_scenario.pdf"
-    - date: "Oct 3"
+            # href: "files/respiratory_tues_scenario.pdf"
+    - date: "Feb 24"
       items:
         - type: "Reflection"
           name: "Week 4 Reflection"
@@ -88,225 +91,225 @@
 
 - week: 5
   days:
-    - date: "Oct 6"
+    - date: "Mar 2"
       items:
         - type: "Lecture A"
           name: "Trauma Care (Mon)"
           auxil:
             id: "Slides"
-            href: "files/trauma_mon.pdf"
+            # href: "files/trauma_mon.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/trauma_mon_scenario.pdf"
-    - date: "Oct 7"
+            # href: "files/trauma_mon_scenario.pdf"
+    - date: "Mar 3"
       items:
         - type: "Lecture B"
           name: "Trauma Care (Tues)"
           auxil:
             id: "Slides"
-            href: "files/trauma_tues.pdf"
+            # href: "files/trauma_tues.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/trauma_tues_scenario.pdf"
-    - date: "Oct 10"
+            # href: "files/trauma_tues_scenario.pdf"
+    - date: "Mar 8"
       items:
         - type: "Reflection"
           name: "Week 5 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945845"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945845"
         - type: "Quiz"
           name: "Week 5 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512081" 
 
 - week: 6
   days:
-    - date: "Oct 13"
+    - date: "Mar 9"
       items:
         - type: "Lecture A"
           name: "EKG Basics (Mon)"
-    - date: "Oct 14"
+    - date: "Mar 10"
       items:
         - type: "Lecture B"
           name: "EKG Basics (Tues)"
 
 - week: 7
   days:
-    - date: "Oct 20"
+    - date: "Mar 16"
       items:
         - type: "Lecture A"
           name: "Environmental Emergencies (Mon)"
           auxil:
             id: "Slides"
-            href: "files/environmental_mon_slides.pdf"
+            # href: "files/environmental_mon_slides.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/environmental_mon_scenario.pdf"
-    - date: "Oct 21"
+            # href: "files/environmental_mon_scenario.pdf"
+    - date: "Mar 17"
       items:
         - type: "Lecture B"
           name: "Environmental Emergencies (Tues)"
           auxil:
             id: "Slides"
-            href: "files/environmental_tues_slides.pdf"
+            # href: "files/environmental_tues_slides.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/environmental_tues_scenario.pdf"
-    - date: "Oct 24"
+            # href: "files/environmental_tues_scenario.pdf"
+    - date: "Mar 20"
       items:
         - type: "Reflection"
           name: "Week 7 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945847"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945847"
         - type: "Quiz"
           name: "Week 7 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512082"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512082"
 
 - week: 8
   days:
-    - date: "Oct 27"
+    - date: "Mar 30"
       items:
         - type: "Lecture A"
           name: "Guest Speakers (Mon)"
-    - date: "Oct 28"
+    - date: "Mar 28"
       items:
         - type: "Lecture B"
           name: "Guest Speakers (Tues)"
-    - date: "Oct 31"
+    - date: "Mar 31"
       items:
         - type: "Reflection"
           name: "Week 8 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945849"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945849"
         - type: "Assignment"
           name: "Mid-Semester Feedback Form"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945832"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945832"
 
 - week: 9
   days:
-    - date: "Nov 3"
+    - date: "Apr 6"
       items:
         - type: "Lecture A"
           name: "Psychological and Behavioral Emergencies (Mon)"
           auxil:
             id: "Slides"
-            href: "files/psych_mon.pdf"
+            # href: "files/psych_mon.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/psych_mon_scenario.pdf"
-    - date: "Nov 4"
+            # href: "files/psych_mon_scenario.pdf"
+    - date: "Apr 7"
       items:
         - type: "Lecture B"
           name: "Psychological and Behavioral Emergencies (Tues)"
           auxil:
             id: "Slides"
-            href: "files/psych_tues.pdf"
+            # href: "files/psych_tues.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/psych_tues_scenario.pdf"
-    - date: "Nov 7"
+            # href: "files/psych_tues_scenario.pdf"
+    - date: "Apr 10"
       items:
         - type: "Reflection"
           name: "Week 9 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945850"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945850"
         - type: "Quiz"
           name: "Week 9 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512084"          
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512084"          
 
 - week: 10
   days:
-    - date: "Nov 10"
+    - date: "Apr 13"
       items:
         - type: "Lecture A"
           name: "Toxicology – Poisoning, Overdose, Drugs (Mon)"
           auxil:
             id: "Slides"
-            href: "files/toxicology_mon.pdf"
+            # href: "files/toxicology_mon.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/toxicology_mon_scenario.pdf"
-    - date: "Nov 11"
+            # href: "files/toxicology_mon_scenario.pdf"
+    - date: "Apr 14"
       items:
         - type: "Lecture B"
           name: "Toxicology – Poisoning, Overdose, Drugs (Tues)"
           auxil:
             id: "Slides"
-            href: "files/toxicology_tues.pdf"
+            # href: "files/toxicology_tues.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/toxicology_tues_scenario.pdf"
-    - date: "Nov 14"
+            # href: "files/toxicology_tues_scenario.pdf"
+    - date: "Apr 14"
       items:
         - type: "Reflection"
           name: "Week 10 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945836"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945836"
         - type: "Quiz"
           name: "Week 10 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512079"          
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512079"          
 
 - week: 11
   days:
-    - date: "Nov 17"
+    - date: "Apr 20"
       items:
         - type: "Lecture A"
           name: "Pediatrics and Obstetrics (Mon)"
           auxil:
             id: "Slides"
-            href: "files/pediatrics_mon.pdf"
+            # href: "files/pediatrics_mon.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/pediatrics_mon_scenario.pdf"
-    - date: "Nov 18"
+            # href: "files/pediatrics_mon_scenario.pdf"
+    - date: "Apr 21"
       items:
         - type: "Lecture B"
           name: "Pediatrics and Obstetrics (Tues)"
           auxil:
             id: "Slides"
-            href: "files/pediatrics_tues.pdf"
+            # href: "files/pediatrics_tues.pdf"
           auxil2:
             id: "Scenarios"
-            href: "files/pediatrics_tues_scenario.pdf"
-    - date: "Nov 21"
+            # href: "files/pediatrics_tues_scenario.pdf"
+    - date: "Apr 21"
       items:
         - type: "Reflection"
           name: "Week 11 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945838"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945838"
         - type: "Quiz"
           name: "Week 11 Quiz"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512086"          
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/quizzes/2512086"          
 
 - week: 12
   days:
-    - date: "Dec 1"
+    - date: "Apr 27"
       items:
         - type: "Lecture A"
           name: "Disaster and MCI Preparedness (Mon)"
           auxil:
             id: "Slides"
-            href: "files/mci.pdf"
+            # href: "files/mci.pdf"
           auxil2:
             id: "Triage Guide"
-            href: "files/triage.pdf"
-    - date: "Dec 2"
+            # href: "files/triage.pdf"
+    - date: "Apr 28"
       items:
         - type: "Lecture B"
           name: "Disaster and MCI Preparedness (Tues)"
           auxil:
             id: "Slides"
-            href: "files/mci.pdf"
+            # href: "files/mci.pdf"
           auxil2:
             id: "Triage Guide"
-            href: "files/triage.pdf"
-    - date: "Dec 5"
+            # href: "files/triage.pdf"
+    - date: "May 2"
       items:
         - type: "Reflection"
           name: "Week 12 Reflection"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945840"
-    - date: "Dec 6"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945840"
+    - date: "May 2"
       items: 
       - type: "Exercise"
         name: "Mass Casualty Incident Training"
 
 - week: 13
   days:
-    - date: "Dec 12"
+    - date: "May 2"
       items:
         - type: "Assignment"
           name: "Final Feedback Form"
-          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945829"
+          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1547313/assignments/8945829"

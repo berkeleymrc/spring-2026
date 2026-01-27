@@ -8,16 +8,16 @@ website:
       - text: License
         href: license.qmd
       - text: GitHub
-        href: "https://github.com/berkeleymrc/fall-2025"
+        href: "https://github.com/berkeleymrc/spring-2026"
     background: "dark"
   sidebar:
     style: "docked"
-    title: "INTEGBI 198 <br><small>Fall 2025</small>"
+    title: "INTEGBI 198 <br><small>Spring 2026</small>"
     logo: assets/bmrc_bear.png
     logo-alt: "BMRC logo"
     tools:
       - icon: github
-        href: https://github.com/berkeleymrc/fall-2025
+        href: https://github.com/berkeleymrc/spring-2026
     contents:
       - href: index.qmd
         text: Home / Schedule
