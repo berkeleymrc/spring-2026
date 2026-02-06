@@ -4,7 +4,7 @@ page-layout: article
 toc: false
 ---
 
-Sign up by commenting your name on a shift [here](https://docs.google.com/spreadsheets/d/12O9aSQ8l65SdB1fVUv1Ors-MUf5wUNarZhkPG3UpIE8/edit?gid=1541622620#gid=1541622620). Click an event to view details or add it to your own Google Calendar. Time frames shown on the google calendar may not be accurate, always double check with the spreadsheet. Events with undisclosed times are not included in the calendar.
+Sign up by commenting your name on a shift [here](https://docs.google.com/spreadsheets/d/1ZJDVw3wToMUxkadhojNSRgP_Z3Q27750Q8lPvPOyfQQ/edit?usp=drivesdk). Click an event to view details or add it to your own Google Calendar. Time frames shown on the google calendar may not be accurate, always double check with the spreadsheet. Events with undisclosed times are not included in the calendar.
 
 ```{=html}
 <div class="calendar-embed large">
