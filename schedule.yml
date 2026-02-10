@@ -6,7 +6,7 @@
           name: "New Member Academy"
           auxil:
             id: "Slides"
-            # href: "files/fa25-nma-slides.pdf"
+            href: "files/sp26_new_mem.pdf"
     - date: "Feb 10"
       items:
         - type: "Quiz"
@@ -21,10 +21,10 @@
           name: "Cardiac Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/cardiac_mon.pdf"
+            href: "files/cardiac_mon.pdf"
           auxil2: 
             id: "Scenarios"
-            # href: "files/cardiac_mon_scenario.pdf"
+            href: "files/cardiac_mon_scenario.pdf"
     - date: "Feb 10"
       items:
         - type: "Lecture B"
