@@ -34,7 +34,7 @@
             href: "files/cardiac_tues.pdf"
           auxil2: 
             id: "Scenarios"
-            # href: "files/cardiac_tues_scenario.pdf"
+            href: "files/cardiac_tues_scenarios.pdf"
     - date: "Feb 19"
       items:
         - type: "Quiz"
