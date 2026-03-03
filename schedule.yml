@@ -59,14 +59,14 @@
           name: "STB/FA Instructor Training"
           auxil:
             id: "Slides"
-            # href: "files/cardiac_mon.pdf"
+            href: "files/cardiac_mon.pdf"
     - date: "Feb 17"
       items: 
         - type: "Lecture B"
           name: "STB/FA Instructor Training"
           auxil:
             id: "Slides"
-            # href: "files/cardiac_tues.pdf"
+            href: "files/cardiac_tues.pdf"
 
 - week: 4
   days:
@@ -76,20 +76,20 @@
           name: "Respiratory Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/respiratory_mon_slides.pdf"
+            href: "files/respiratory_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/respiratory_mon_scenario.pdf"
+            href: "files/respiratory_scenarios_mon.pdf"
     - date: "Feb 24"
       items:
         - type: "Lecture B"
           name: "Respiratory Emergencies (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/respiratory_tues_slides.pdf"
+            href: "files/respiratory_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/respiratory_tues_scenario.pdf"
+            href: "files/respiratory_scenarios_tues.pdf"
     - date: "Feb 24"
       items:
         - type: "Reflection"
