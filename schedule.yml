@@ -107,20 +107,20 @@
           name: "Trauma Care (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/trauma_mon.pdf"
+            href: "files/trauma_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/trauma_mon_scenario.pdf"
+            href: "files/trauma_scenarios_mon.pdf"
     - date: "Mar 3"
       items:
         - type: "Lecture B"
           name: "Trauma Care (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/trauma_tues.pdf"
+            href: "files/trauma_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/trauma_tues_scenario.pdf"
+            href: "files/trauma_scenarios_tues.pdf"
     - date: "Mar 8"
       items:
         - type: "Reflection"
