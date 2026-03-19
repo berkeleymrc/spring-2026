@@ -149,20 +149,20 @@
           name: "Environmental Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/environmental_mon_slides.pdf"
+            href: "files/environmental_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/environmental_mon_scenario.pdf"
+            href: "files/environmental_scenarios_mon.pdf"
     - date: "Mar 17"
       items:
         - type: "Lecture B"
           name: "Environmental Emergencies (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/environmental_tues_slides.pdf"
+            href: "files/environmental_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/environmental_tues_scenario.pdf"
+            href: "files/environmental_scenarios_tues.pdf"
     - date: "Mar 20"
       items:
         - type: "Reflection"
