@@ -1,4 +1,4 @@
-- week: 1
+- week: 0
   days:
     - date: "Feb 7"
       items:
@@ -13,7 +13,7 @@
           name: "ALCO protocol quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040351?module_item_id=17649189"
 
-- week: 2
+- week: 1
   days:
     - date: "Feb 9"
       items:
@@ -51,7 +51,7 @@
           name: "BMRC Protocol Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531193"
 
-- week: 3
+- week: 2
   days:
     - date: "Feb 16"
       items:
@@ -68,7 +68,7 @@
             id: "Slides"
             href: "files/cardiac_tues.pdf"
 
-- week: 4
+- week: 3
   days:
     - date: "Feb 23"
       items:
@@ -99,7 +99,7 @@
           name: "Week 4 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531196"
 
-- week: 5
+- week: 4
   days:
     - date: "Mar 2"
       items:
@@ -130,7 +130,7 @@
           name: "Week 5 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531191" 
 
-- week: 6
+- week: 5
   days:
     - date: "Mar 9"
       items:
@@ -141,7 +141,7 @@
         - type: "Lecture B"
           name: "EKG Basics (Tues)"
 
-- week: 7
+- week: 6
   days:
     - date: "Mar 16"
       items:
@@ -172,7 +172,7 @@
           name: "Week 7 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531190"
 
-- week: 8
+- week: 7
   days:
     - date: "Mar 30"
       items:
@@ -191,7 +191,7 @@
           name: "Mid-Semester Feedback Form"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040357"
 
-- week: 9
+- week: 8
   days:
     - date: "Apr 6"
       items:
@@ -199,20 +199,20 @@
           name: "Psychological and Behavioral Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/psych_mon.pdf"
+            href: "files/psych_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/psych_mon_scenario.pdf"
+            href: "files/psych_scenarios_mon.pdf"
     - date: "Apr 7"
       items:
         - type: "Lecture B"
           name: "Psychological and Behavioral Emergencies (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/psych_tues.pdf"
+            href: "files/psych_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/psych_tues_scenario.pdf"
+            href: "files/psych_scenarios_tues.pdf"
     - date: "Apr 10"
       items:
         - type: "Reflection"
@@ -222,7 +222,7 @@
           name: "Week 9 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531189"          
 
-- week: 10
+- week: 9
   days:
     - date: "Apr 13"
       items:
@@ -253,7 +253,7 @@
           name: "Week 10 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531192"          
 
-- week: 11
+- week: 10
   days:
     - date: "Apr 20"
       items:
@@ -284,7 +284,7 @@
           name: "Week 11 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531195"          
 
-- week: 12
+- week: 11
   days:
     - date: "Apr 27"
       items:
@@ -316,7 +316,7 @@
       - type: "Exercise"
         name: "Mass Casualty Incident Training"
 
-- week: 13
+- week: 12
   days:
     - date: "May 2"
       items:
