@@ -38,12 +38,12 @@
     - date: "Feb 19"
       items:
         - type: "Quiz"
-          name: "Week 2 Quiz"
+          name: "Week 1 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531194"
     - date: "Feb 19"
       items:
         - type: "Reflection"
-          name: "Week 2 Reflection"
+          name: "Week 1 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040363"
     - date: "Feb 19"
       items:
@@ -93,10 +93,10 @@
     - date: "Feb 24"
       items:
         - type: "Reflection"
-          name: "Week 4 Reflection"
+          name: "Week 3 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040364?module_item_id=17649194"
         - type: "Quiz"
-          name: "Week 4 Quiz"
+          name: "Week 3 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531196"
 
 - week: 4
@@ -124,10 +124,10 @@
     - date: "Mar 8"
       items:
         - type: "Reflection"
-          name: "Week 5 Reflection"
+          name: "Week 4 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040365"
         - type: "Quiz"
-          name: "Week 5 Quiz"
+          name: "Week 4 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531191" 
 
 - week: 5
@@ -166,10 +166,10 @@
     - date: "Mar 20"
       items:
         - type: "Reflection"
-          name: "Week 7 Reflection"
+          name: "Week 6 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040366"
         - type: "Quiz"
-          name: "Week 7 Quiz"
+          name: "Week 6 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531190"
 
 - week: 7
@@ -185,7 +185,7 @@
     - date: "Mar 31"
       items:
         - type: "Reflection"
-          name: "Week 8 Reflection"
+          name: "Week 7 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040367"
         - type: "Assignment"
           name: "Mid-Semester Feedback Form"
@@ -216,10 +216,10 @@
     - date: "Apr 10"
       items:
         - type: "Reflection"
-          name: "Week 9 Reflection"
+          name: "Week 8 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040368"
         - type: "Quiz"
-          name: "Week 9 Quiz"
+          name: "Week 8 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531189"          
 
 - week: 9
@@ -230,27 +230,27 @@
           name: "Pediatrics and Obstetrics (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/pediatrics_mon.pdf"
+            href: "files/peds_obgyn.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/pediatrics_mon_scenario.pdf"
+            href: "files/peds_obgyn_scenarios.pdf"
     - date: "Apr 14"
       items:
         - type: "Lecture B"
           name: "Pediatrics and Obstetrics (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/pediatrics_tues.pdf"
+            href: "files/peds_obgyn.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/pediatrics_tues_scenario.pdf"
+            href: "files/peds_obgyn_scenarios.pdf"
     - date: "Apr 21"
       items:
         - type: "Reflection"
-          name: "Week 10 Reflection"
+          name: "Week 9 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040361"
         - type: "Quiz"
-          name: "Week 10 Quiz"
+          name: "Week 9 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531192"          
 
 - week: 10
@@ -278,10 +278,10 @@
     - date: "Apr 28"
       items:
         - type: "Reflection"
-          name: "Week 11 Reflection"
+          name: "Week 10 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040360"
         - type: "Quiz"
-          name: "Week 11 Quiz"
+          name: "Week 10 Quiz"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531195"          
 
 - week: 11
@@ -309,7 +309,7 @@
     - date: "May 2"
       items:
         - type: "Reflection"
-          name: "Week 12 Reflection"
+          name: "Week 11 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040362"
     - date: "May 2"
       items: 
