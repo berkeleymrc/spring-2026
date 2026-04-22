@@ -230,7 +230,7 @@
           name: "Pediatrics and Obstetrics (Mon)"
           auxil:
             id: "Slides"
-            href: "files/peds_obgyn.pdf"
+            href: "files/peds_obgyn_compressed.pdf"
           auxil2:
             id: "Scenarios"
             href: "files/peds_obgyn_scenarios.pdf"
@@ -240,7 +240,7 @@
           name: "Pediatrics and Obstetrics (Tues)"
           auxil:
             id: "Slides"
-            href: "files/peds_obgyn.pdf"
+            href: "files/peds_obgyn_compressed.pdf"
           auxil2:
             id: "Scenarios"
             href: "files/peds_obgyn_scenarios.pdf"
@@ -261,20 +261,20 @@
           name: "Toxicology – Poisoning, Overdose, Drugs (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/toxicology_mon.pdf"
+            href: "files/toxicology_slides.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/toxicology_mon_scenario.pdf"
+            href: "files/toxicology_scenarios.pdf"
     - date: "Apr 21"
       items:
         - type: "Lecture B"
           name: "Toxicology – Poisoning, Overdose, Drugs (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/toxicology_tues.pdf"
+            href: "files/toxicology_slides.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/toxicology_tues_scenario.pdf"
+            href: "files/toxicology_scenarios.pdf"
     - date: "Apr 28"
       items:
         - type: "Reflection"
