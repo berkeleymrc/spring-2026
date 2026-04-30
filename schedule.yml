@@ -292,7 +292,7 @@
           name: "Disaster and MCI Preparedness (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/mci.pdf"
+            href: "files/sp26 mci drill.pdf"
           auxil2:
             id: "Triage Guide"
             # href: "files/triage.pdf"
@@ -302,7 +302,7 @@
           name: "Disaster and MCI Preparedness (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/mci.pdf"
+            href: "files/sp26 mci drill.pdf"
           auxil2:
             id: "Triage Guide"
             # href: "files/triage.pdf"
@@ -311,7 +311,7 @@
         - type: "Reflection"
           name: "Week 11 Reflection"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040362"
-    - date: "May 2"
+    - date: "May 3"
       items: 
       - type: "Exercise"
         name: "Mass Casualty Incident Training"
