@@ -13,7 +13,7 @@ website:
   sidebar:
     style: "docked"
     title: "INTEGBI 198 <br><small>Spring 2026</small>"
-    logo: assets/bmrc_bear.png
+    logo: assets/new_logo.png
     logo-alt: "BMRC logo"
     tools:
       - icon: github

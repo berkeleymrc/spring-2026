@@ -2,7 +2,7 @@
 
 This repository contains the source files for the Emergency Medicine in Practice course website for **Spring 2026**.  
 The site is built with [Quarto](https://quarto.org/) and hosted on GitHub Pages at:  
-[https://berkeleymrc.github.io/fall-2025/](https://berkeleymrc.github.io/fall-2025/)
+[https://berkeleymrc.github.io/spring-2026/](https://berkeleymrc.github.io/spring-2026/)
 
 ## About the Site
 

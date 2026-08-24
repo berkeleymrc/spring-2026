@@ -2,7 +2,7 @@
 title: "Radio Usage"
 ---
 
-## BMRC Radio Convetions
+## BMRC Radio Conventions
 
 Hey you, it's me format 
 
