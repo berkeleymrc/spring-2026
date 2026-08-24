@@ -23,18 +23,18 @@ Office hours are available at request.
 :::
 
 :::
-
+<br><br>
 ::: {.grid}
 
 ::: {.g-col-6}
 <img src="assets/eva.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Director of Training:** <a href='' target='_blank'>Eva Reineck</a><br>
+**Intern Director of Training:** <a href='' target='_blank'>Eva Reineck</a><br>
 `training@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
 <img src="assets/fontanna.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Director of Training:** <a href='' target='_blank'>Fontanna Zhi</a><br>
+**Intern Director of Training:** <a href='' target='_blank'>Fontanna Zhi</a><br>
 `training@berkeleymrc.org`<br>
 :::
 
@@ -46,7 +46,7 @@ Office hours are available at request.
 ::: {.grid}
 
 ::: {.g-col-6}
-**Director:** <a>Ashley Huang</a><br>
+**Director:** <a href='' target='_blank'>Ashley Huang</a>
 `director@berkeleymrc.org`<br>
 :::
 
